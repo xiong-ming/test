@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/类，Math,Random,Scanner,Static,String/0.iml" filepath="$PROJECT_DIR$/类，Math,Random,Scanner,Static,String/0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extend/Abstract.iml" filepath="$PROJECT_DIR$/extend/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection集合（单列集合）/Collection集合.iml" filepath="$PROJECT_DIR$/Collection集合（单列集合）/Collection集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debug追踪和程序异常/Debug追踪和程序异常.iml" filepath="$PROJECT_DIR$/Debug追踪和程序异常/Debug追踪和程序异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map（双列集合）/Map.iml" filepath="$PROJECT_DIR$/Map（双列集合）/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System类，StringBuilder类和包装类/System类，StringBuilder类和包装类.iml" filepath="$PROJECT_DIR$/System类，StringBuilder类和包装类/System类，StringBuilder类和包装类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HellowWorld和Method/ceshi.iml" filepath="$PROJECT_DIR$/HellowWorld和Method/ceshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerclass/innerclass.iml" filepath="$PROJECT_DIR$/innerclass/innerclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi/multi.iml" filepath="$PROJECT_DIR$/multi/multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object/object.iml" filepath="$PROJECT_DIR$/object/object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/四种权限修饰符/四种权限修饰符.iml" filepath="$PROJECT_DIR$/四种权限修饰符/四种权限修饰符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/接口和类做成员变量和函数返回值参数值/接口和类做成员变量和函数返回值参数值.iml" filepath="$PROJECT_DIR$/接口和类做成员变量和函数返回值参数值/接口和类做成员变量和函数返回值参数值.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/时间/时间.iml" filepath="$PROJECT_DIR$/时间/时间.iml" />
+    </modules>
+  </component>
+</project>
