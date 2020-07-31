@@ -11,7 +11,32 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ec1f9f6-4cdb-42ee-9b32-6faf8c42eea8" name="Default Changelist" comment="" />
+    <list default="true" id="4ec1f9f6-4cdb-42ee-9b32-6faf8c42eea8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jquary01/.idea/jquary01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jquary01/jquary01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_java/maven_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_web/maven_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parent/api/api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parent/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parent/parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parent/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/DataBase/DataBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/JDBC/JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/ceshi/ceshi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/html/Bootstrap/Bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/html/CSS/CSS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/html/JavaScript/JavaScript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/html/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/html/html/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/html/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/网络编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络编程/连接池/连接池.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +88,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1ennTiIDsC06e7Zje6UVAmlPkqm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -75,6 +101,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -437,11 +464,24 @@
       <workItem from="1595939974899" duration="201000" />
       <workItem from="1595941525930" duration="36573000" />
       <workItem from="1595981952927" duration="10787000" />
+      <workItem from="1596159787788" duration="545000" />
     </task>
+    <task id="LOCAL-00001" summary="将part3和se commit到git">
+      <created>1596160025379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596160025379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="将part3和se commit到git" />
+    <option name="LAST_COMMIT_MESSAGE" value="将part3和se commit到git" />
   </component>
   <component name="WindowStateProjectService">
     <state x="691" y="267" key="#BuildArtifactsBeforeRunChooser" timestamp="1595388988651">
@@ -512,6 +552,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="529" y="304" key="#com.intellij.ws.actions.GenerateJavaFromWsdlDialog/0.0.1536.824@0.0.1536.824" timestamp="1595409951222" />
+    <state x="371" y="3" key="CommitChangelistDialog2" timestamp="1596160011331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="371" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596160011331" />
     <state x="496" y="183" key="FileChooserDialogImpl" timestamp="1596001792304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -656,10 +700,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="804" y="198" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1536.824@0.0.1536.824" timestamp="1595129266039" />
-    <state x="297" y="0" key="new project wizard" timestamp="1596001804070">
+    <state x="297" y="0" key="new project wizard" timestamp="1596160332599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="297" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596001804070" />
+    <state x="297" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596160332599" />
     <state x="469" y="29" key="refactoring.ChangeSignatureDialog" timestamp="1595244612382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
